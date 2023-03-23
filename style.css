@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+h1#title {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+div {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    margin-top: 40px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+p.content {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+a.link {
+    color: #333;
+    text-decoration: none;
+    border-bottom: 2px solid #333;
+}
+
+a.link:hover {
+    color: #fff;
+    background-color: #333;
+}
+
+h2.subtitle {
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+}
+
+p.end {
+    text-align: center;
+    font-size: large;
+    font-style: oblique;
+}
